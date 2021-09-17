@@ -1,0 +1,2 @@
+# Djikstras Algorithm Monte Carlo Simulation
+ The purpose of the Monte Carlo simulation implementation in this assignment is to use a pseudo-random number generator to randomly fill a graph with random edges and their cost, up to a specified density, in order to calculate the average shortest path of the graph. The program uses the <random> library's random engine to generate pseudo-random numbers for edge placement and its costs.
